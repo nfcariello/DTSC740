@@ -4,7 +4,7 @@ This project was built in `Python 3.8`
 
 ## Getting Started
 1. Install dependencies: `pip3 install -r requirements.txt`
-2. Run the SimCNN code:
+2. Run the main function which runs SimCNN and ResNet50
 
 ## SimCNN
 
